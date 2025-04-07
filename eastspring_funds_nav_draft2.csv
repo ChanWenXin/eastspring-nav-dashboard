@@ -1,0 +1,148 @@
+,Fund name,Asset class,Currency,NAV,NAV Date,Daily price change
+0,Eastspring Investments - Asia ESG Bond Fund - A,Bond,USD,10.998,2025-04-04,0.009
+1,Eastspring Investments - Asia ESG Bond Fund - ADM,Bond,USD,8.647,2025-04-04,0.012
+2,Eastspring Investments - Asia ESG Bond Fund - AS (hedged),Bond,SGD,9.824,2025-04-04,0.01
+3,Eastspring Investments - Asia ESG Bond Fund - ASDM (hedged),Bond,SGD,8.227,2025-04-04,0.0
+4,Eastspring Investments - Asia ESG Bond Fund - C,Bond,USD,11.007,2025-04-04,0.009
+5,Eastspring Investments - Asia ESG Bond Fund - R,Bond,USD,10.519,2025-04-04,0.019
+6,Eastspring Investments - Asian Bond Fund - A,Bond,USD,18.974,2025-04-04,-0.137
+7,Eastspring Investments - Asian Bond Fund - AADM (hedged),Bond,AUD,5.993,2025-04-04,-0.167
+8,Eastspring Investments - Asian Bond Fund - ADM,Bond,USD,7.434,2025-04-04,-0.134
+9,Eastspring Investments - Asian Bond Fund - ADQ,Bond,USD,8.224,2025-04-04,-0.146
+10,Eastspring Investments - Asian Bond Fund - AGDM (hedged),Bond,GBP,5.916,2025-04-04,-0.135
+11,Eastspring Investments - Asian Bond Fund - AHDM,Bond,HKD,6.422,2025-04-04,-0.171
+12,Eastspring Investments - Asian Bond Fund - ANDM (hedged),Bond,NZD,6.28,2025-04-04,-0.159
+13,Eastspring Investments - Asian Bond Fund - AS,Bond,SGD,13.931,2025-04-04,0.454
+14,Eastspring Investments - Asian Bond Fund - AS (hedged),Bond,SGD,10.146,2025-04-04,-0.148
+15,Eastspring Investments - Asian Bond Fund - ASDM,Bond,SGD,6.703,2025-04-04,0.45
+16,Eastspring Investments - Asian Bond Fund - ASDM (hedged),Bond,SGD,6.296,2025-04-04,-0.143
+17,Eastspring Investments - Asian Bond Fund - C,Bond,USD,13.373,2025-04-04,-0.134
+18,Eastspring Investments - Asian Bond Fund - CDM,Bond,USD,7.41,2025-04-04,-0.135
+19,Eastspring Investments - Asian Dynamic Fund - A,Equity,USD,11.164,2025-04-04,-2.353
+20,Eastspring Investments - Asian Dynamic Fund - C,Equity,USD,10.725,2025-04-04,-2.358
+21,Eastspring Investments - Asian Equity Fund - A,Equity,USD,20.492,2025-04-04,-2.544
+22,Eastspring Investments - Asian Equity Fund - AS,Equity,SGD,16.434,2025-04-04,-1.969
+23,Eastspring Investments - Asian Equity Fund - C,Equity,USD,9.68,2025-04-04,-2.537
+24,Eastspring Investments - Asian Equity Income Fund - A,Equity,USD,13.497,2025-04-04,-3.247
+25,Eastspring Investments - Asian Equity Income Fund - AADM (hedged),Equity,AUD,6.641,2025-04-04,-3.404
+26,Eastspring Investments - Asian Equity Income Fund - ADM,Equity,USD,6.856,2025-04-04,-3.246
+27,Eastspring Investments - Asian Equity Income Fund - AS,Equity,SGD,13.195,2025-04-04,-2.677
+28,Eastspring Investments - Asian Equity Income Fund - AS (hedged),Equity,SGD,10.245,2025-04-04,-3.267
+29,Eastspring Investments - Asian Equity Income Fund - ASDM,Equity,SGD,7.224,2025-04-04,-2.668
+30,Eastspring Investments - Asian Equity Income Fund - C,Equity,USD,14.597,2025-04-04,-3.248
+31,Eastspring Investments - Asian High Yield Bond Fund - A,Bond,USD,9.97,2025-04-04,-0.489
+32,Eastspring Investments - Asian High Yield Bond Fund - AADM (hedged),Bond,AUD,4.029,2025-04-04,-0.519
+33,Eastspring Investments - Asian High Yield Bond Fund - ADM,Bond,USD,4.157,2025-04-04,-0.503
+34,Eastspring Investments - Asian High Yield Bond Fund - ANDM (hedged),Bond,NZD,4.08,2025-04-04,-0.512
+35,Eastspring Investments - Asian High Yield Bond Fund - AS (hedged),Bond,SGD,6.394,2025-04-04,-0.498
+36,Eastspring Investments - Asian High Yield Bond Fund - ASDM,Bond,SGD,4.431,2025-04-04,0.09
+37,Eastspring Investments - Asian High Yield Bond Fund - ASDM (hedged),Bond,SGD,3.869,2025-04-04,-0.514
+38,Eastspring Investments - Asian High Yield Bond Fund - C,Bond,USD,10.99,2025-04-04,-0.489
+39,Eastspring Investments - Asian Investment Grade Bond Fund - A,Bond,USD,11.239,2025-04-04,0.027
+40,Eastspring Investments - Asian Local Bond Fund - A,Bond,USD,15.019,2025-04-04,0.637
+41,Eastspring Investments - Asian Local Bond Fund - AADM (hedged),Bond,AUD,6.699,2025-04-04,0.661
+42,Eastspring Investments - Asian Local Bond Fund - ADM,Bond,USD,8.201,2025-04-04,0.638
+43,Eastspring Investments - Asian Local Bond Fund - AS,Bond,SGD,13.121,2025-04-04,1.227
+44,Eastspring Investments - Asian Local Bond Fund - C,Bond,USD,13.156,2025-04-04,0.635
+45,Eastspring Investments - Asian Low Volatility Equity Fund - A,Equity,USD,14.929,2025-04-04,-1.957
+46,Eastspring Investments - Asian Low Volatility Equity Fund - ADM,Equity,USD,9.749,2025-04-04,-1.961
+47,Eastspring Investments - Asian Low Volatility Equity Fund - AS,Equity,SGD,12.938,2025-04-04,-1.387
+48,Eastspring Investments - Asian Low Volatility Equity Fund - AS (hedged),Equity,SGD,12.152,2025-04-04,-1.968
+49,Eastspring Investments - Asian Low Volatility Equity Fund - ASDM,Equity,SGD,9.541,2025-04-04,-1.375
+50,Eastspring Investments - Asian Low Volatility Equity Fund - ASDM (hedged),Equity,SGD,8.876,2025-04-04,-1.977
+51,Eastspring Investments - Asian Low Volatility Equity Fund - C,Equity,USD,15.506,2025-04-04,-1.96
+52,Eastspring Investments - Asian Multi Factor Equity Fund - A,Equity,USD,11.296,2025-04-04,-3.163
+53,Eastspring Investments - China A Shares Growth Fund - A,Equity,USD,8.731,2025-04-03,-1.722
+54,Eastspring Investments - China A Shares Growth Fund - AS,Equity,SGD,5.117,2025-04-03,-2.403
+55,Eastspring Investments - China A Shares Growth Fund - C,Equity,USD,6.036,2025-04-03,-1.726
+56,Eastspring Investments - China Bond Fund - A,Bond,USD,11.145,2025-04-03,0.18
+57,Eastspring Investments - China Bond Fund - ADM,Bond,USD,9.501,2025-04-03,0.179
+58,Eastspring Investments - China Bond Fund - ASDM (hedged),Bond,SGD,9.207,2025-04-03,0.163
+59,Eastspring Investments - China Bond Fund - R,Bond,USD,10.668,2025-04-03,0.188
+60,Eastspring Investments - China Equity Fund - A,Equity,USD,10.147,2025-04-03,-1.533
+61,Eastspring Investments - China Equity Fund - AS,Equity,SGD,8.383,2025-04-03,-2.193
+62,Eastspring Investments - Global Dynamic Growth Equity Fund - A,Equity,USD,17.942,2025-04-04,-5.544
+63,Eastspring Investments - Global Dynamic Growth Equity Fund - AS (hedged),Equity,SGD,10.918,2025-04-04,-5.594
+64,Eastspring Investments - Global Dynamic Growth Equity Fund - C,Equity,USD,18.298,2025-04-04,-5.544
+65,Eastspring Investments - Global Emerging Markets Bond Fund - A,Bond,USD,13.546,2025-04-04,-1.016
+66,Eastspring Investments - Global Emerging Markets Bond Fund - ADM,Bond,USD,6.234,2025-04-04,-1.016
+67,Eastspring Investments - Global Emerging Markets Bond Fund - C,Bond,USD,11.618,2025-04-04,-1.014
+68,Eastspring Investments - Global Emerging Markets Dynamic Fund - A,Equity,USD,12.049,2025-04-04,-2.556
+69,Eastspring Investments - Global Emerging Markets Dynamic Fund - AS,Equity,SGD,12.973,2025-04-04,-1.987
+70,Eastspring Investments - Global Emerging Markets Dynamic Fund - C,Equity,USD,14.616,2025-04-04,-2.554
+71,Eastspring Investments - Global Low Volatility Equity Fund - A,Equity,USD,16.011,2025-04-04,-1.713
+72,Eastspring Investments - Global Low Volatility Equity Fund - AS,Equity,SGD,17.083,2025-04-04,-1.129
+73,Eastspring Investments - Global Low Volatility Equity Fund - C,Equity,USD,11.986,2025-04-04,-1.706
+74,Eastspring Investments - Global Market Navigator Fund - A,Multi asset,USD,15.426,2025-04-04,-2.761
+75,Eastspring Investments - Global Market Navigator Fund - ASDMC1 (hedged),Multi asset,SGD,7.486,2025-04-04,-2.792
+76,Eastspring Investments - Global Multi Asset Income Plus Growth Fund - ADM,Multi asset,USD,9.155,2025-04-04,-2.336
+77,Eastspring Investments - Global Technology Fund - A,Equity,USD,62.881,2025-04-04,-5.115
+78,Eastspring Investments - Greater China Equity Fund - A,Equity,USD,21.737,2025-04-03,-1.785
+79,Eastspring Investments - Greater China Equity Fund - C,Equity,USD,37.322,2025-04-03,-1.784
+80,Eastspring Investments - India Equity Fund - A,Equity,USD,20.461,2025-04-04,-2.143
+81,Eastspring Investments - India Equity Fund - C,Equity,USD,12.65,2025-04-04,-2.135
+82,Eastspring Investments - Indonesia Equity Fund - A,Equity,USD,10.354,2025-03-27,0.69
+83,Eastspring Investments - Indonesia Equity Fund - AS,Equity,SGD,6.427,2025-03-27,0.816
+84,Eastspring Investments - Japan Dynamic Fund - A,Equity,USD,21.485,2025-04-04,-4.341
+85,Eastspring Investments - Japan Dynamic Fund - A (hedged),Equity,USD,32.679,2025-04-04,-4.091
+86,Eastspring Investments - Japan Dynamic Fund - AE (hedged),Equity,EUR,23.182,2025-04-04,-4.155
+87,Eastspring Investments - Japan Dynamic Fund - AJ,Equity,JPY,2347.0,2025-04-04,-4.126
+88,Eastspring Investments - Japan Dynamic Fund - AJDM,Equity,JPY,922.0,2025-04-04,-4.058
+89,Eastspring Investments - Japan Dynamic Fund - AS,Equity,SGD,19.066,2025-04-04,-3.78
+90,Eastspring Investments - Japan Dynamic Fund - AS (hedged),Equity,SGD,30.83,2025-04-04,-4.136
+91,Eastspring Investments - Japan Dynamic Fund - C,Equity,USD,28.408,2025-04-04,-4.341
+92,Eastspring Investments - Japan Dynamic Fund - C (hedged),Equity,USD,25.875,2025-04-04,-4.089
+93,Eastspring Investments - Japan Dynamic Fund - CDY,Equity,USD,17.228,2025-04-04,-4.342
+94,Eastspring Investments - Japan Dynamic Fund - CE,Equity,EUR,22.669,2025-04-04,-3.598
+95,Eastspring Investments - Japan Dynamic Fund - CE (hedged),Equity,EUR,25.287,2025-04-04,-4.151
+96,Eastspring Investments - Japan Dynamic Fund - CG,Equity,GBP,20.701,2025-04-04,-2.994
+97,Eastspring Investments - Japan Dynamic Fund - CJ,Equity,JPY,2027.0,2025-04-04,-4.161
+98,Eastspring Investments - Japan Dynamic Fund - R,Equity,USD,27.744,2025-04-04,-4.341
+99,Eastspring Investments - Japan Dynamic Fund - R (hedged),Equity,USD,28.508,2025-04-04,-4.091
+100,Eastspring Investments - Japan Dynamic Fund - RE,Equity,EUR,22.497,2025-04-04,-3.599
+101,Eastspring Investments - Japan Dynamic Fund - RE (hedged),Equity,EUR,25.118,2025-04-04,-4.152
+102,Eastspring Investments - Japan Dynamic Fund - RG,Equity,GBP,20.163,2025-04-04,-2.993
+103,Eastspring Investments - Japan Dynamic Fund - RG (hedged),Equity,GBP,25.65,2025-04-04,-4.173
+104,Eastspring Investments - Japan Dynamic Fund - RJ,Equity,JPY,2265.0,2025-04-04,-4.147
+105,Eastspring Investments - Japan Smaller Companies Fund - A,Equity,USD,33.753,2025-04-04,-4.474
+106,Eastspring Investments - Japan Smaller Companies Fund - A (hedged),Equity,USD,9.618,2025-04-04,-4.232
+107,Eastspring Investments - Japan Smaller Companies Fund - AJ,Equity,JPY,929.0,2025-04-04,-4.325
+108,Eastspring Investments - Japan Smaller Companies Fund - C,Equity,USD,14.624,2025-04-04,-4.468
+109,Eastspring Investments - Japan Smaller Companies Fund - CJ,Equity,JPY,5034.0,2025-04-04,-4.278
+110,Eastspring Investments - Pan European Fund - A,Equity,USD,24.394,2025-04-04,-5.17
+111,Eastspring Investments - Philippines Equity Fund - A,Equity,USD,12.741,2025-04-04,-0.639
+112,Eastspring Investments - Philippines Equity Fund - AS,Equity,SGD,7.985,2025-04-04,-0.063
+113,Eastspring Investments - US Corporate Bond Fund - A,Bond,USD,14.428,2025-04-04,-0.09
+114,Eastspring Investments - US Corporate Bond Fund - AADM (hedged),Bond,AUD,8.068,2025-04-04,-0.062
+115,Eastspring Investments - US Corporate Bond Fund - ADM,Bond,USD,9.385,2025-04-04,-0.096
+116,Eastspring Investments - US Corporate Bond Fund - ASDM (hedged),Bond,SGD,7.994,2025-04-04,-0.087
+117,Eastspring Investments - US Corporate Bond Fund - C,Bond,USD,14.086,2025-04-04,-0.092
+118,Eastspring Investments - US High Investment Grade Bond Fund - A,Bond,USD,14.901,2025-04-04,-0.141
+119,Eastspring Investments - US High Investment Grade Bond Fund - AS,Bond,SGD,13.181,2025-04-04,0.45
+120,Eastspring Investments - US High Investment Grade Bond Fund - C,Bond,USD,21.476,2025-04-04,-0.144
+121,Eastspring Investments - US High Yield Bond Fund - A,Bond,USD,20.361,2025-04-04,-1.242
+122,Eastspring Investments - US High Yield Bond Fund - AADM (hedged),Bond,AUD,6.043,2025-04-04,-1.339
+123,Eastspring Investments - US High Yield Bond Fund - C,Bond,USD,33.376,2025-04-04,-1.237
+124,Eastspring Investments - US Investment Grade Bond Fund - A,Bond,USD,20.309,2025-04-04,-0.143
+125,Eastspring Investments - US Investment Grade Bond Fund - AADM (hedged),Bond,AUD,8.395,2025-04-04,-0.107
+126,Eastspring Investments - US Investment Grade Bond Fund - AS,Bond,SGD,18.972,2025-04-04,0.445
+127,Eastspring Investments - US Investment Grade Bond Fund - C,Bond,USD,15.096,2025-04-04,-0.146
+128,Eastspring Investments - Vietnam Equity Fund - A,Equity,USD,10.569,2025-04-04,-2.787
+129,Eastspring Investments - Vietnam Equity Fund - AS (hedged),Equity,SGD,9.029,2025-04-04,-2.83
+130,Eastspring Investments - Vietnam Equity Fund - C,Equity,USD,9.871,2025-04-04,-2.778
+131,Eastspring Investments - World Value Equity Fund - A,Equity,USD,29.954,2025-04-04,-4.733
+132,Eastspring Investments Funds - Monthly Income Plan - A,Multi asset,SGD,0.588,2025-04-04,0.17
+133,Eastspring Investments Funds - Monthly Income Plan - M,Multi asset,SGD,0.572,2025-04-04,0.175
+134,Eastspring Investments Funds - Monthly Income Plan - M (RMB hedged),Multi asset,CNH,7.279,2025-04-04,0.124
+135,Eastspring Investments Funds - Monthly Income Plan - S (SGD),Multi asset,SGD,0.685,2025-04-04,0.146
+136,Eastspring Investments Unit Trusts - Asian Balanced Fund,Multi asset,SGD,2.202,2025-04-04,-0.9
+137,Eastspring Investments Unit Trusts - Dragon Peacock Fund - A,Equity,SGD,4.675,2025-04-04,-0.085
+138,Eastspring Investments Unit Trusts - Dragon Peacock Fund Class - ID,Equity,SGD,1.308,2025-04-04,-0.153
+139,Eastspring Investments Unit Trusts - Global Technology Fund,Equity,SGD,3.029,2025-04-04,-4.538
+140,Eastspring Investments Unit Trusts - Pan European Fund,Equity,SGD,1.992,2025-04-04,-4.598
+141,Eastspring Investments Unit Trusts - Singapore ASEAN Equity Fund,Equity,SGD,1.264,2025-04-04,-1.481
+142,Eastspring Investments Unit Trusts - Singapore Select Bond Fund - Class A,Bond,SGD,1.561,2025-04-04,0.321
+143,Eastspring Investments Unit Trusts - Singapore Select Bond Fund - Class AD,Bond,SGD,0.98,2025-04-04,0.41
+144,Eastspring Investments Unit Trusts - Singapore Select Bond Fund - Class I,Bond,SGD,1.22,2025-04-04,0.412
+145,Eastspring SGD Cash Fund - A,Money Market,SGD,1.205112,2025-04-06,0.017
+146,Eastspring SGD Cash Fund - D,Money Market,SGD,1.007,2025-04-06,0.019
