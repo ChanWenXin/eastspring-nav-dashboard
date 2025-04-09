@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import requests
 
 # Setup
 st.set_page_config(layout='wide')
@@ -68,7 +69,34 @@ ax2.set_xlabel("Currency")
 st.pyplot(fig2)
 
 # --- Section 4: Not Updated Funds ---
-st.header("⚠️ Funds Not Updated (≠ 04 Apr 2025)")
-outdated_funds = df1[df1["NAV Date"] != "2025-04-04"].reset_index(drop=True)
-st.warning(f"{len(outdated_funds)} fund(s) have not updated their NAV on 04 Apr 2025.")
+st.header("⚠️ Funds Not Updated (≠ 08 Apr 2025)")
+outdated_funds = df1[df1["NAV Date"] != "2025-04-08"].reset_index(drop=True)
+st.warning(f"{len(outdated_funds)} fund(s) have not updated their NAV on 08 Apr 2025.")
 st.dataframe(outdated_funds)
+
+# === Prepare webhook message ===
+if not outdated_funds.empty:
+    fund_list_text = "\n".join(
+        f"- {row['Fund name']}: NAV = {row['NAV']} ({row['NAV Date']})"
+        for _, row in outdated_funds.iterrows()
+    )
+
+    teams_message = {
+        "title": "⚠️ Funds Not Updated - NAV Alert",
+        "text": f"{len(outdated_funds)} fund(s) have not updated their NAV for 08 Apr 2025:\n\n{fund_list_text}"
+    }
+
+    # === Replace this with your actual Teams webhook URL ===
+    webhook_url = "https://szmschoolo.webhook.office.com/webhookb2/08ec0457-dcd4-4270-80f9-c0efd3078ede@b8288e74-2c7b-4331-93fd-aed4d2b09add/IncomingWebhook/f744a98bbe6a47d48c6fb54054e0b55a/b208173a-863b-4704-ac6e-b4e4e8a217cc/V283b-LipgVvFGXHbDY4u9CehZxYmsfpzsnaOgWY7v7kk1"
+
+    # === Send to Microsoft Teams ===
+    response = requests.post(
+        webhook_url,
+        json={"text": teams_message["text"]}
+    )
+
+    # Streamlit status
+    if response.status_code == 200:
+        st.success("🔔 Alert sent to Teams successfully.")
+    else:
+        st.error(f"❌ Failed to send alert. Status code: {response.status_code}")
