@@ -10,7 +10,7 @@ st.title("🌍 Eastspring NAV Dashboard")
 st.markdown("All NAVs are normalized to USD using April 2025 exchange rates.")
 
 # Load clean dataframe
-df1 = pd.read_csv("C:\\udemy\\web scraping in python with beautifulsoup and selenium\\eastspring_funds_nav_draft2.csv", index_col=0)
+df1 = pd.read_csv("eastspring_funds_nav_draft2.csv", index_col=0)
 
 #Clean the DF
 # Approximate exchange rates to USD (as of April 2025)
